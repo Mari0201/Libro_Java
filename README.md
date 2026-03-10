@@ -1,8 +1,8 @@
 Proyecto Biblioteca - Parcial Programación II
 
 Integrantes
-- Sebastián Devia
-- Duvan Rivera
+- Andres Mauricio Rueda
+- Mariana Muñoz Latorre
 
 Descripción
 Sistema de gestión de libros aplicando conceptos de POO:
