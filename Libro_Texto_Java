@@ -16,6 +16,6 @@ public class LibroTexto extends Libro {
     }
 
     public String toString() {
-        return super.toString() + "\nCurso: " + curso;
+        return super.toString() + "\Curso: " + curso;
     }
 }
