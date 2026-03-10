@@ -28,5 +28,5 @@ Permite:
 - Mostrar información de libros
 
  UML
-
+<img width="521" height="556" alt="image" src="https://github.com/user-attachments/assets/45b355d2-ffbc-47a5-9855-b427af0e3d10" />
 Ver archivo UML.md
