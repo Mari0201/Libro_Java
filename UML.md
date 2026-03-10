@@ -19,3 +19,5 @@ Métodos
 - setAutor(autor:String)
 - prestamo() : boolean
 - devolucion() : boolean
+
+![WhatsApp Image 2026-03-09 at 7 23 50 PM](https://github.com/user-attachments/assets/ce6538c8-2852-487a-b4aa-28e4d61182d0)
